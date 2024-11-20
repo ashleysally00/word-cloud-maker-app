@@ -12,7 +12,7 @@ This Python-powered app helps you create stunning word clouds with customizable 
 
 Learn more about word clouds:
 
-- [Understanding Word Clouds](https://github.com/ashleysally00/word-cloud-maker-app/blob/main/understanding-word-clouds.MD) - Detailed explanation of how word clouds work, including frequency, placement, and customization options.
+- [Understanding Word Clouds](https://github.com/ashleysally00/word-cloud-maker-app/blob/main/undertstanding-word-clouds.md) - Detailed explanation of how word clouds work, including frequency, placement, and customization options.
 - [Adding Sentiment Analysis to Word Clouds](https://github.com/ashleysally00/word-cloud-maker-app/blob/main/add-sentiment-analysis.MD) - Learn how to incorporate sentiment analysis in your word clouds using VADER and TextBlob libraries.
 
 ## Installation
