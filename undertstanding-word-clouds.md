@@ -1,6 +1,6 @@
 # How Word Clouds Work: A Technical Overview
 
-A **word cloud** is a visual representation of text data where the size and appearance of each word (or phrase) are determined by its relative importance in the text. Here's how it works and how it would process a list of Halloween movies 🎬:
+A **word cloud** is a visual representation of text data where the size and appearance of each word (or phrase) are determined by its relative importance in the text. Here's how it works and how it would process a list of Halloween movies 🎃 🎬:
 
 ## Key Principles of a Word Cloud
 
@@ -22,7 +22,7 @@ Example:
    - Colors are assigned randomly from a predefined palette unless explicitly customized.
    - You can use custom palettes to match a theme, such as Halloween (e.g., orange, black, purple).
 
-## How Word Clouds Work Internally
+## How Word Clouds Work Internally ☁️
 
 1. **Input Text** :
 
