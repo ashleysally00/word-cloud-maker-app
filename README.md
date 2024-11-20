@@ -8,6 +8,13 @@ This Python-powered app helps you create stunning word clouds with customizable 
 - **Mask Image Upload**: Option to create word clouds in custom shapes
 - **Real-Time Visualization**: See the word cloud as soon as you generate it
 
+## Documentation
+
+Learn more about word clouds:
+
+- [Understanding Word Clouds](https://github.com/ashleysally00/word-cloud-maker-app/blob/main/understanding-word-clouds.MD) - Detailed explanation of how word clouds work, including frequency, placement, and customization options.
+- [Adding Sentiment Analysis to Word Clouds](https://github.com/ashleysally00/word-cloud-maker-app/blob/main/add-sentiment-analysis.MD) - Learn how to incorporate sentiment analysis in your word clouds using VADER and TextBlob libraries.
+
 ## Installation
 
 1. **Clone the Repository**:
