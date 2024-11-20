@@ -1,0 +1,23 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+vanv/
+*.env
+*.venv
+
+# Streamlit-specific files
+.streamlit/
+
+# Logs and other output
+*.log
+
+# Local files
+.DS_Store
+.vscode/
+.idea/
+uploads/
